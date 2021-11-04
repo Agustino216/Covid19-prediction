@@ -1,0 +1,8 @@
+
+El archivo Datos COVID19 2020 y 2021 implica a los datos sin procesar. 
+El archivo matriz con resultados intermedios y figura 1 abarca a una matriz con datos diferenciados de Covid19 2020
+para busqueda del set de entrenamiento relacionado a los datos de COVID19 2021. Ademas contiene al correlogrma
+entre las variables predictiva y predicha indicada como figura 1.
+El archivo Resultados finales " implica a la generación del Modelo de Regresión Polinomial con Retrazo, 
+con sus datos predichos, la inversión de la diferenciación realizada. Además contiene a los datos del índice de 
+movilidad para Tucumán que se presenta de manera conjuta con la figura2.
